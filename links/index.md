@@ -4,7 +4,7 @@ title: 友链
 type: link
 ---
 
-这里供奉各位大佬的站点链接，顶礼膜拜~~~
+Some links
 
 - [Isheng](http://www.isheng.top/)
 - [Freeloop](http://www.cnblogs.com/lishiyao/)
