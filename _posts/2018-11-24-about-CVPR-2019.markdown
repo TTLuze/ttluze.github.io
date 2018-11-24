@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to My site!"
+title:  "关于CVPR 2019的一点想法"
 date:   2018-11-24 11:49:00 +0800
 categories: daily
 ---
